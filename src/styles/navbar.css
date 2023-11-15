@@ -1,0 +1,127 @@
+* {
+  margin: 0px;
+}
+body {
+  margin: 0px;
+}
+/*Start of navigation bar css*/
+.list1 {
+  list-style: none;
+  color: black;
+  display: inline-block;
+  padding: 10px;
+}
+.list1 a {
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  display: block;
+}
+.list1 a:hover {
+  text-decoration: underline;
+}
+/*Start of navigation bar css*/
+
+/*h1 header About me*/
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 14%;
+  overflow: hidden;
+  background-color: #70a9a1;
+  height: 75px;
+  border-bottom: 1px solid black;
+}
+.section_title h1 {
+  color: black;
+  margin-left: 100px;
+  font-size: 30px;
+  display: inline;
+}
+section h1 {
+  text-decoration: underline;
+}
+section p {
+  font-size: 25px;
+}
+
+section h1 {
+  color: black;
+  text-align: center;
+}
+main {
+  background-color: #1f363d;
+  color: white;
+  height: 700px;
+}
+main h1 {
+  padding-top: 80px;
+  padding-left: 7%;
+}
+main img {
+  padding-left: 9%;
+  padding-top: 1%;
+}
+main p {
+  padding-left: 7%;
+  font-size: 30px;
+  padding-top: 8px;
+}
+.userimg {
+  border-radius: 5px;
+}
+
+footer {
+  background-color: #1f363d;
+  height: 160px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.githubimg {
+  width: 50px;
+  border-radius: 10px;
+  margin-right: 6px;
+}
+.linkedinimg {
+  width: 50px;
+  border-radius: 10px;
+  margin-right: 3px;
+}
+.stackoverflowimg {
+  width: 50px;
+  border-radius: 10px;
+  margin-right: 6px;
+}
+.contactdiv {
+  margin-left: 180px;
+  padding-top: 10px;
+}
+.list2 li {
+  color: white;
+  margin-left: 16%;
+  padding-top: 10px;
+}
+.frontend {
+  margin-left: 12%;
+  padding-top: 8px;
+}
+.backend {
+  margin-left: 12%;
+  padding-top: 8px;
+}
+.operatingsystem {
+  margin-left: 12%;
+  padding-top: 8px;
+}
+.profilemain {
+  display: grid;
+  margin-left: 100px;
+}
+main article {
+  display: flex;
+}
+main article div {
+  padding: 10px;
+}
