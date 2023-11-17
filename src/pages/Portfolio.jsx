@@ -24,7 +24,7 @@ export default function Portfolio() {
       </article>
       <article>
         <div>
-          <a href="#">
+          <a href="https://github.com/Cervp22/Employee_Tracker">
             <img
               src="./Employee_tracker.jpg"
               style={{ width: "400px", borderRadius: "100px" }}
@@ -32,19 +32,19 @@ export default function Portfolio() {
           </a>
         </div>
         <div>
-          <a href="#">
+          <a href="https://github.com/Cervp22/C-Tech-Blog">
             <img src="./tech-blog.png" style={{ width: "560px" }} />
           </a>
         </div>
       </article>
       <article>
         <div>
-          <a href="#">
+          <a href="https://github.com/Cervp22/Work-day-Schedule">
             <img src="./work-day-schedule.png" style={{ width: "400px" }} />
           </a>
         </div>
         <div>
-          <a href="#">
+          <a href="https://github.com/FROMERO63/programmerspub">
             <img
               src="./cocktailwebsite.png"
               style={{ width: "400px", borderRadius: "80px" }}
