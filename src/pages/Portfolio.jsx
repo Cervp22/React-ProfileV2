@@ -5,7 +5,7 @@ export default function Portfolio() {
         <div>
           <a href="#">
             <img
-              src="../images/javascripttimedquix.png"
+              src="../public/javascripttimedquix.png"
               style={{ width: "400px", borderRadius: "70px" }}
             />
           </a>
@@ -13,7 +13,7 @@ export default function Portfolio() {
         <div>
           <a href="#">
             <img
-              src="../images/weatherapp.png"
+              src="../public/weatherapp.png"
               style={{
                 width: "400px",
                 borderRadius: "200px",
@@ -26,14 +26,14 @@ export default function Portfolio() {
         <div>
           <a href="#">
             <img
-              src="../images/weatherapp.png"
+              src="../public/weatherapp.png"
               style={{ width: "400px", borderRadius: "100px" }}
             />
           </a>
         </div>
         <div>
           <a href="#">
-            <img src="../images/tech-blog.png" style={{ width: "560px" }} />
+            <img src="../public/tech-blog.png" style={{ width: "560px" }} />
           </a>
         </div>
       </article>
@@ -41,7 +41,7 @@ export default function Portfolio() {
         <div>
           <a href="#">
             <img
-              src="../images/work-day-schedule.png"
+              src="../public/work-day-schedule.png"
               style={{ width: "400px" }}
             />
           </a>
@@ -49,7 +49,7 @@ export default function Portfolio() {
         <div>
           <a href="#">
             <img
-              src="../images/cocktailwebsite.png"
+              src="../public/cocktailwebsite.png"
               style={{ width: "400px", borderRadius: "80px" }}
             />
           </a>
