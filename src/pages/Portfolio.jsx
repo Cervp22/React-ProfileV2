@@ -5,7 +5,7 @@ export default function Portfolio() {
         <div>
           <a href="#">
             <img
-              src="../public/javascripttimedquix.png"
+              src="./javascripttimedquix.png"
               style={{ width: "400px", borderRadius: "70px" }}
             />
           </a>
