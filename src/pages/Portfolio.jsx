@@ -13,7 +13,7 @@ export default function Portfolio() {
         <div>
           <a href="#">
             <img
-              src="../public/weatherapp.png"
+              src="./weatherapp.png"
               style={{
                 width: "400px",
                 borderRadius: "200px",
@@ -26,7 +26,7 @@ export default function Portfolio() {
         <div>
           <a href="#">
             <img
-              src="../public/weatherapp.png"
+              src="./weatherapp.png"
               style={{ width: "400px", borderRadius: "100px" }}
             />
           </a>
@@ -40,16 +40,13 @@ export default function Portfolio() {
       <article>
         <div>
           <a href="#">
-            <img
-              src="../public/work-day-schedule.png"
-              style={{ width: "400px" }}
-            />
+            <img src="./work-day-schedule.png" style={{ width: "400px" }} />
           </a>
         </div>
         <div>
           <a href="#">
             <img
-              src="../public/cocktailwebsite.png"
+              src="./cocktailwebsite.png"
               style={{ width: "400px", borderRadius: "80px" }}
             />
           </a>
