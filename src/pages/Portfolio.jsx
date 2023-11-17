@@ -26,7 +26,7 @@ export default function Portfolio() {
         <div>
           <a href="#">
             <img
-              src="./weatherapp.png"
+              src="./Employee_tracker.png"
               style={{ width: "400px", borderRadius: "100px" }}
             />
           </a>
