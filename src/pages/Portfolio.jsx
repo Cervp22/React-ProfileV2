@@ -33,7 +33,7 @@ export default function Portfolio() {
         </div>
         <div>
           <a href="#">
-            <img src="../public/tech-blog.png" style={{ width: "560px" }} />
+            <img src="./tech-blog.png" style={{ width: "560px" }} />
           </a>
         </div>
       </article>
