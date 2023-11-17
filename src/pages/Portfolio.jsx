@@ -3,7 +3,7 @@ export default function Portfolio() {
     <main style={{ marginLeft: "470px" }}>
       <article>
         <div>
-          <a href="#">
+          <a href="https://github.com/Cervp22/Timed-javascript-game">
             <img
               src="./javascripttimedquix.png"
               style={{ width: "400px", borderRadius: "70px" }}
@@ -11,7 +11,7 @@ export default function Portfolio() {
           </a>
         </div>
         <div>
-          <a href="#">
+          <a href="https://github.com/Cervp22/Weather_Forcast">
             <img
               src="./weatherapp.png"
               style={{
